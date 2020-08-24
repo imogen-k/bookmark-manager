@@ -1,6 +1,6 @@
-##Bookmark Manager
+# Bookmark Manager
 
-#User story 1
+## User story 1
 
 ```
 As a user
